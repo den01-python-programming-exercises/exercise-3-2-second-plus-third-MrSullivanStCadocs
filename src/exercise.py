@@ -8,7 +8,7 @@ def main():
         break
     
     sum = myList[1] + myList[2]
-    
+    print(str(mylist[0]))
     print(str(sum))
 
 
