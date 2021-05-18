@@ -2,7 +2,7 @@ def main():
     #write your code below this line
     myList = []
     while True:
-      userNumber = int(input(""))
+      userNumber = int(input(" "))
       myList.append(userNumber)
       if(userNumber == 0):
         break
